@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sharingann
-- 👀 I’m interested in ...Artificial intelligence, astrophysics
+- 👀 I’m interested in ...Artificial intelligence,Machine Learning, astrophysics
 - 🌱 I’m currently learning ...Devops,AI
 - 📫 How to reach me ...[Twitter](https://twitter.com/Harikahtwt)
 - 🎨 I love to create...
